@@ -1,2 +1,2 @@
 # yysGAN
-GAN for 阴阳师角色
+GAN for 阴阳师式神
