@@ -29,9 +29,6 @@ python yysGAN.py
 ## 了解更多GAN的知识
 [Generative Adversarial Networks.ipynb](https://github.com/kuhung/yysGAN/blob/master/Generative%20Adversarial%20Networks.ipynb)
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bo-ToTdhgew" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## 参考资料
 1. [Siraj Raval](https://youtu.be/yz6dNf7X7SA)
