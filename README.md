@@ -27,8 +27,12 @@ python yysGAN.py
 ```
 
 ## 了解更多GAN的知识
-查看由Siraj Raval整理的[Generative Adversarial Networks.ipynb](https://github.com/kuhung/yysGAN/blob/master/Generative%20Adversarial%20Networks.ipynb)。
+[Generative Adversarial Networks.ipynb](https://github.com/kuhung/yysGAN/blob/master/Generative%20Adversarial%20Networks.ipynb)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bo-ToTdhgew" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## 参考资料
-油管主播Siraj Raval[这里](https://youtu.be/yz6dNf7X7SA)以及原始代码贡献者[moxiegushi](https://github.com/moxiegushi/pokeGAN)。本人仅对resize函数和文件io进行了整理，修正了部分bug，简化了上手难度。
-
+1. [Siraj Raval](https://youtu.be/yz6dNf7X7SA)
+2. [moxiegushi/pokeGAN](https://github.com/moxiegushi/pokeGAN)
